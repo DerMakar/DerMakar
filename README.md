@@ -8,7 +8,7 @@
 Есть опыт работы с Cmake и  protobuf.
 Тренируюсь на leetcode.com (справляюсь с middle).
 
-Моё резюме в облаке https://clck.ru/369HWy
+Моё резюме в облаке https://kurl.ru/OeBjm
 
 Дополнительные контакты:
 - telegram @MokeichevEv
