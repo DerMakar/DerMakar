@@ -17,3 +17,4 @@
 - telegram @MokeichevEv
 - почта makkimak@yandex.ru
 - ВК https://vk.com/makkimak
+- LinkedIn https://www.linkedin.com/in/emokeichev/
